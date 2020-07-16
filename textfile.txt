@@ -1,0 +1,2 @@
+this is a test textfile that will go into my git repository
+this is a new line
