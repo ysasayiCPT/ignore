@@ -2,7 +2,7 @@
 int ft_return_largest(int* n);
 int main()
 {
-	int numbers[] = {12,52,78,80,32,33,52};
+	int numbers[] = {12,3,99,2,32,33,52};
 	printf("the largest of all: %d", ft_return_largest(numbers));
 	return 0;
 }
